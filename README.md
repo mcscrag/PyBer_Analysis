@@ -8,7 +8,7 @@
 
 ### Ride Share Data by City Type
 
-![Summary Dataframe](/Resources/Summary_df.pmng)
+![Summary Dataframe](/Resources/summary_df.pmng)
 
 #### The above dataframe gives summary data for each city type. The majority of PyBer's ride-share revenue comes from urban and suburban rides. However, each individual rural ride has almost 3 times the value of each urban ride. There could be many reasons for this, such as ride distance being generally longer in rural areas, or the urban areas have a saturation of drivers and thus the competition brings the average fare down. To further support this, the rural areas average 0.63 drivers per ride, whereas the urban areas average 1.5 drivers per ride. This data suggests it would be very cost effective to incentivize more rural drivers to bring the driver-to-ride ratio closer to 1 since each driver would create more value than urban drivers.
 
